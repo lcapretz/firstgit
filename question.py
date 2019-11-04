@@ -1,4 +1,4 @@
-# Programming Exercise 10-8
+# Questions for a quiz
 
 class Question:
     def __init__(self, question, answer1, answer2, \

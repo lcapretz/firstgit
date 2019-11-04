@@ -1,4 +1,4 @@
-# Questions for a quiz
+# Quiz questions
 
 class Question:
     def __init__(self, question, answer1, answer2, \
